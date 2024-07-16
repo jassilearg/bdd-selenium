@@ -1,0 +1,10 @@
+
+# Ignore Maven wrapper files
+mvn/wrapper/maven-wrapper.jar
+
+# Ignore compiled class files
+*.class
+
+# Ignore IDE-specific directories
+.idea/
+.vscode/
